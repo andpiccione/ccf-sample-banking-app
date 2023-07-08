@@ -31,6 +31,7 @@
       "modules": "Az.Resources, Microsoft.Graph.Authentication, Microsoft.Graph.Applications"
     },
     "ghcr.io/rchaganti/vsc-devcontainer-features/azurebicep:1": {},
-    "ghcr.io/devcontainers/features/azure-cli:1": {}
+    "ghcr.io/devcontainers/features/azure-cli:1": {},
+    "ghcr.io/devcontainers/features/python:1": {}
   }
 }
